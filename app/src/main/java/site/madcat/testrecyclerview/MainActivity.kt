@@ -104,3 +104,4 @@ class MainActivity : AppCompatActivity() {
         repo.addObj(Obj(UUID.randomUUID().toString(), "qwerw8", "6234"))
     }
 }
+
